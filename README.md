@@ -1,2 +1,0 @@
-# terraform-vmware
-# Teste Git
