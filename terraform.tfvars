@@ -1,7 +1,7 @@
 # Vsphere Specs
-vsphere_server = "srvvcenter001.fabricads.com.br"
-vsphere_user = "inacio.ikeda@fabricads.com.br"
-vsphere_password = "FreedomStyle123"
+vsphere_server = "vcenter.fabricads.com.br"
+vsphere_user = "xpto@fabricads.com.br"
+vsphere_password = "XptoDaSilvaSauro"
 vsphere_datacenter = "FabricaDS"
 vsphere_datastore = "datastore_02"
 vsphere_resource_pool = "DSSign-HML"
