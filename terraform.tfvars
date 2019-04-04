@@ -1,7 +1,7 @@
 # Vsphere Definitions
-vsphere_server = "srvvcenter001.fabricads.com.br"
-vsphere_user = "inacio.ikeda@fabricads.com.br"
-vsphere_password = "FreedomStyle123"
+vsphere_server = "vcenter.xpto.com.br"
+vsphere_user = "inacio.ikeda@xpto.com.br"
+vsphere_password = "EstaNaoeaSenhaKKKKK"
 vsphere_datacenter = "FabricaDS"
 vsphere_datastore = "datastore_02"
 vsphere_resource_pool = "DSSign-HML"
